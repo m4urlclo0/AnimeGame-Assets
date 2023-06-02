@@ -1,0 +1,240 @@
+{
+  "m_Shader": {
+    "m_FileID": 1,
+    "m_PathID": 8252582830392623,
+    "IsNull": false
+  },
+  "m_SavedProperties": {
+    "m_TexEnvs": {
+      "_MainTex": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": -2083181104493060556,
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      }
+    },
+    "m_Ints": null,
+    "m_Floats": {
+      "_AddLightFeather": 0.03,
+      "_AddLightOffset": 0.5,
+      "_AddLightStrengthen": 0.3,
+      "_BackShadowRange": 0.0,
+      "_CullMode": 2.0,
+      "_CustomColor": 0.0,
+      "_CustomsizedFace": 0.0,
+      "_DitherAlpha": 1.0,
+      "_EmissionIntensity": 0.0,
+      "_EmissionThreshold": 1.0,
+      "_EyeEffectProcs": 0.0,
+      "_FresnelColorStrength": 1.0,
+      "_HairBlendSilhouette": 0.5,
+      "_NoseLinePower": 0.0,
+      "_Opaqueness": 1.0,
+      "_OutlineNormalFrom": 1.0,
+      "_OutlinePolygonOffsetFactor": 0.0,
+      "_OutlinePolygonOffsetUnits": 0.0,
+      "_OutlineWidth": 0.05,
+      "_PolygonOffsetFactor": 0.0,
+      "_PolygonOffsetUnits": 0.0,
+      "_ReceiveShadows": 1.0,
+      "_RimShadowCt": 1.0,
+      "_RimShadowFeather": 0.01,
+      "_RimShadowIntensity": 1.0,
+      "_RimShadowWidth": 1.0,
+      "_ShadowFeather": 0.0001,
+      "_ShadowThreshold": 0.5,
+      "_ShowID0": 0.0,
+      "_ShowID1": 0.0,
+      "_ShowID2": 0.0,
+      "_ShowID3": 0.0,
+      "_ShowID4": 0.0,
+      "_ShowID5": 0.0,
+      "_ShowID6": 0.0,
+      "_ShowID7": 0.0,
+      "_ShowPartID": 0.0,
+      "_SpecularColor": 0.0,
+      "_SpecularIntensity": 0.0,
+      "_SpecularPow": 1.0,
+      "_SpecularThreshold": 1.0,
+      "_StencilEye": 17.0,
+      "_StencilFace": 31.0,
+      "_UsingDitherAlpha": 0.0,
+      "_mBloomIntensity": 0.02
+    },
+    "m_Colors": {
+      "_BrightDiffuseColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_Color": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_CustomBeardColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_CustomBeardColor1": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_CustomEyeBallColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_CustomEyeBallColor1": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "_CustomEyeBaseColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_CustomEyeDarkColor": {
+        "r": 0.8,
+        "g": 0.8,
+        "b": 0.8,
+        "a": 1.0
+      },
+      "_CustomSkinColor": {
+        "r": 1.0,
+        "g": 0.9388562,
+        "b": 0.9198113,
+        "a": 1.0
+      },
+      "_CustomSkinColor1": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_CustomSkinDarkColor": {
+        "r": 0.9811321,
+        "g": 0.92568177,
+        "b": 0.91171235,
+        "a": 1.0
+      },
+      "_CustomSkinLightColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_CustomSkinLineColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_EnvColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_EyeEffectColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_EyeShadowColor": {
+        "r": 0.8396226,
+        "g": 0.8396226,
+        "b": 0.8396226,
+        "a": 1.0
+      },
+      "_FresnelBSI": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 0.0
+      },
+      "_FresnelColor": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_MainMaps_ST": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_NoseLineColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_OutlineColor0": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "_RimShadowColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_RimShadowOffset": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_ShadowColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_ShadowDiffuseColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_SpecularColor": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "_VertexShadowColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      }
+    }
+  },
+  "m_StringTagMap": {},
+  "m_Name": "NPC_Full_W2_Lady_DanShu_Face_Mat"
+}

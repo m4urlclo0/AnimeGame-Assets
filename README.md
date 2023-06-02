@@ -1,2 +1,3 @@
 # AnimeGame-Assets
-Anime Game Assets v1
+
+`Assets of Characters, NPC, Monsters`

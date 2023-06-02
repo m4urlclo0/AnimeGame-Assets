@@ -1,0 +1,31 @@
+{
+  "m_Shader": {
+    "m_FileID": 2,
+    "m_PathID": -5232747699998233658,
+    "IsNull": false
+  },
+  "m_SavedProperties": {
+    "m_TexEnvs": {},
+    "m_Ints": null,
+    "m_Floats": {
+      "_ReceiveShadow": 1.0,
+      "_StencilRef": 224.0
+    },
+    "m_Colors": {
+      "_Color": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_ReflectionFresnel": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 1.0,
+        "a": 0.0
+      }
+    }
+  },
+  "m_StringTagMap": {},
+  "m_Name": "Body_Mat"
+}

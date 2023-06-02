@@ -1,0 +1,88 @@
+{
+  "m_Shader": {
+    "m_FileID": 5,
+    "m_PathID": 3883215492012054971,
+    "IsNull": false
+  },
+  "m_SavedProperties": {
+    "m_TexEnvs": {
+      "_MainTex": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": -3185196597897782422,
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 0.48,
+          "Y": 0.5
+        },
+        "m_Offset": {
+          "X": 4.81,
+          "Y": 3.87
+        }
+      }
+    },
+    "m_Ints": null,
+    "m_Floats": {
+      "_DitherAlpha": 1.0,
+      "_EmissionIntensity": 0.0,
+      "_EmissionThreshold": 0.0,
+      "_OutlineWidth": 0.06,
+      "_ShadowFeather": 0.337,
+      "_ShadowThreshold": 1.0,
+      "_SpecularIntensity0": 50.0,
+      "_SpecularRoughness0": 0.02,
+      "_SpecularShininess0": 0.1,
+      "_SpecularThreshold": 1.0,
+      "_UsingAtlasFace": 1.0,
+      "_UsingDitherAlpha": 0.0,
+      "_mBloomIntensity0": 0.02
+    },
+    "m_Colors": {
+      "_AtlasDivision": {
+        "r": 4.0,
+        "g": 4.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_BrightDiffuseColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_Color": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_MainMaps_ST": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_OutlineColor0": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "_ShadowDiffuseColor": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "_SpecularColor0": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      }
+    }
+  },
+  "m_StringTagMap": {},
+  "m_Name": "NPC_Special_Robo_00_LED_Mat"
+}

@@ -1,0 +1,26 @@
+{
+  "m_Shader": {
+    "m_FileID": 1,
+    "m_PathID": -3495758150956192305,
+    "IsNull": false
+  },
+  "m_SavedProperties": {
+    "m_TexEnvs": {},
+    "m_Ints": null,
+    "m_Floats": {
+      "_CullMode": 2.0,
+      "_PolygonOffsetFactor": -8.0,
+      "_PolygonOffsetUnits": 0.0
+    },
+    "m_Colors": {
+      "_Color": {
+        "r": 0.13333334,
+        "g": 0.13333334,
+        "b": 0.13333334,
+        "a": 1.0
+      }
+    }
+  },
+  "m_StringTagMap": {},
+  "m_Name": "Natasha_00_Mat_Nevus"
+}

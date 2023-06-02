@@ -1,0 +1,25 @@
+{
+  "m_Shader": {
+    "m_FileID": 1,
+    "m_PathID": 5079313481811018855,
+    "IsNull": false
+  },
+  "m_SavedProperties": {
+    "m_TexEnvs": {},
+    "m_Ints": null,
+    "m_Floats": {
+      "_DitherAlpha": 1.0,
+      "_Dither_On": 0.0
+    },
+    "m_Colors": {
+      "_Color": {
+        "r": 0.7830189,
+        "g": 0.09838981,
+        "b": 0.0,
+        "a": 0.3882353
+      }
+    }
+  },
+  "m_StringTagMap": {},
+  "m_Name": "XP_Minion01_00_Mat_Trans"
+}

@@ -1,0 +1,17 @@
+{
+  "m_Shader": {
+    "m_FileID": 0,
+    "m_PathID": 0,
+    "IsNull": true
+  },
+  "m_SavedProperties": {
+    "m_TexEnvs": {},
+    "m_Ints": null,
+    "m_Floats": {},
+    "m_Colors": {}
+  },
+  "m_StringTagMap": {
+    "Distortion": "None"
+  },
+  "m_Name": "Eff_Himeko_00_Mat_Weapon"
+}

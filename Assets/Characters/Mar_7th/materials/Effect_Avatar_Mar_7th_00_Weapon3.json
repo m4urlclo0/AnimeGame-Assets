@@ -1,0 +1,35 @@
+{
+  "m_Shader": {
+    "m_FileID": 1,
+    "m_PathID": 3945732339058882865,
+    "IsNull": false
+  },
+  "m_SavedProperties": {
+    "m_TexEnvs": {},
+    "m_Ints": null,
+    "m_Floats": {
+      "_DitherAlpha": 1.0,
+      "_DstBlend": 0.0,
+      "_OutlineNormalFrom": 1.0,
+      "_OutlinePolygonOffsetFactor": 0.0,
+      "_OutlinePolygonOffsetUnits": 0.0,
+      "_OutlineWidth": 0.06,
+      "_ReceiveShadows": 1.0,
+      "_RenderingMode": 4.0,
+      "_SrcBlend": 1.0,
+      "_UsingDitherAlpha": 0.0
+    },
+    "m_Colors": {
+      "_OutlineColor": {
+        "r": 0.019654078,
+        "g": 0.0,
+        "b": 0.047169805,
+        "a": 1.0
+      }
+    }
+  },
+  "m_StringTagMap": {
+    "Distortion": "None"
+  },
+  "m_Name": "Effect_Avatar_Mar_7th_00_Weapon3"
+}

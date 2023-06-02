@@ -1,0 +1,46 @@
+{
+  "m_Shader": {
+    "m_FileID": 2,
+    "m_PathID": -3947362193666101140,
+    "IsNull": false
+  },
+  "m_SavedProperties": {
+    "m_TexEnvs": {},
+    "m_Ints": null,
+    "m_Floats": {
+      "_DitherAlpha": 1.0,
+      "_DstBlend": 10.0,
+      "_EdgeOpaqueness": 0.6,
+      "_EdgeWidthout": 0.67,
+      "_InsideWidth": -0.66,
+      "_OutlineNormalFrom": 1.0,
+      "_OutlineWidth": 0.075,
+      "_RenderingMode": 0.0,
+      "_SrcBlend": 5.0,
+      "_StencilRef": 10.0,
+      "_UsingDitherAlpha": 0.0
+    },
+    "m_Colors": {
+      "_GlassColorI": {
+        "r": 0.6132076,
+        "g": 0.5317379,
+        "b": 0.50040054,
+        "a": 1.0
+      },
+      "_GlassColorU": {
+        "r": 1.0,
+        "g": 0.9575472,
+        "b": 0.9575472,
+        "a": 1.0
+      },
+      "_OutlineColor": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      }
+    }
+  },
+  "m_StringTagMap": {},
+  "m_Name": "NPC_Special_RobUmbrella_00_Glass_Mat"
+}
