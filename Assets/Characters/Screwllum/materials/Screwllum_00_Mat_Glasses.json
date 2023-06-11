@@ -1,0 +1,214 @@
+{
+  "m_Shader": {
+    "m_FileID": 1,
+    "m_PathID": 2715023061545819910,
+    "IsNull": false
+  },
+  "m_SavedProperties": {
+    "m_TexEnvs": [
+      {
+        "Key": "_MainTex",
+        "Value": {
+          "m_Texture": {
+            "m_FileID": 0,
+            "m_PathID": 0,
+            "IsNull": true
+          },
+          "m_Scale": {
+            "X": 1.0,
+            "Y": 1.0
+          },
+          "m_Offset": {
+            "X": 0.0,
+            "Y": 0.0
+          }
+        }
+      },
+      {
+        "Key": "_ReflectionCube",
+        "Value": {
+          "m_Texture": {
+            "m_FileID": 2,
+            "m_PathID": -4759649345314331372,
+            "IsNull": false
+          },
+          "m_Scale": {
+            "X": 1.0,
+            "Y": 1.0
+          },
+          "m_Offset": {
+            "X": 0.0,
+            "Y": 0.0
+          }
+        }
+      },
+      {
+        "Key": "_SpecialSpecularTex",
+        "Value": {
+          "m_Texture": {
+            "m_FileID": 3,
+            "m_PathID": 8453549660587053721,
+            "IsNull": false
+          },
+          "m_Scale": {
+            "X": 1.0,
+            "Y": 1.0
+          },
+          "m_Offset": {
+            "X": 0.0,
+            "Y": 0.0
+          }
+        }
+      },
+      {
+        "Key": "_StarTex",
+        "Value": {
+          "m_Texture": {
+            "m_FileID": 0,
+            "m_PathID": 0,
+            "IsNull": true
+          },
+          "m_Scale": {
+            "X": 1.0,
+            "Y": 1.0
+          },
+          "m_Offset": {
+            "X": 0.0,
+            "Y": 0.0
+          }
+        }
+      }
+    ],
+    "m_Ints": null,
+    "m_Floats": [
+      {
+        "Key": "_DstBlend",
+        "Value": 10.0
+      },
+      {
+        "Key": "_EdgeAlpha",
+        "Value": 0.092
+      },
+      {
+        "Key": "_FakeAntiAliasing",
+        "Value": 0.01
+      },
+      {
+        "Key": "_FakeLightStrenght",
+        "Value": 0.3
+      },
+      {
+        "Key": "_LerpValue",
+        "Value": 0.0
+      },
+      {
+        "Key": "_LinearToGamma",
+        "Value": 0.0
+      },
+      {
+        "Key": "_Opacity",
+        "Value": 0.118
+      },
+      {
+        "Key": "_PolygonOffsetFactor",
+        "Value": 0.0
+      },
+      {
+        "Key": "_PolygonOffsetUnits",
+        "Value": 0.0
+      },
+      {
+        "Key": "_ScenesDistanceType",
+        "Value": 0.0
+      },
+      {
+        "Key": "_SpecialSpecularAlpha",
+        "Value": 1.6
+      },
+      {
+        "Key": "_SpecularAlpha",
+        "Value": 0.3
+      },
+      {
+        "Key": "_SrcBlend",
+        "Value": 5.0
+      },
+      {
+        "Key": "_StencilOP",
+        "Value": 2.0
+      },
+      {
+        "Key": "_StencilRef",
+        "Value": 65.0
+      },
+      {
+        "Key": "_StencilRefGBuffer",
+        "Value": 65.0
+      },
+      {
+        "Key": "_UVChannel",
+        "Value": 0.0
+      },
+      {
+        "Key": "_UseFakeLight",
+        "Value": 0.0
+      },
+      {
+        "Key": "_UseTAA",
+        "Value": 0.0
+      },
+      {
+        "Key": "_ViewScale",
+        "Value": 0.1
+      }
+    ],
+    "m_Colors": [
+      {
+        "Key": "_Color",
+        "Value": {
+          "r": 0.8254717,
+          "g": 0.90461016,
+          "b": 1.0,
+          "a": 1.0
+        }
+      },
+      {
+        "Key": "_FakeLightColor",
+        "Value": {
+          "r": 1.0,
+          "g": 1.0,
+          "b": 1.0,
+          "a": 1.0
+        }
+      },
+      {
+        "Key": "_FakeLightPosRadius",
+        "Value": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 1.0
+        }
+      },
+      {
+        "Key": "_LerpColor",
+        "Value": {
+          "r": 1.0,
+          "g": 1.0,
+          "b": 1.0,
+          "a": 1.0
+        }
+      },
+      {
+        "Key": "_StarTintColor",
+        "Value": {
+          "r": 1.0,
+          "g": 1.0,
+          "b": 1.0,
+          "a": 1.0
+        }
+      }
+    ]
+  },
+  "m_Name": "Screwllum_00_Mat_Glasses"
+}
