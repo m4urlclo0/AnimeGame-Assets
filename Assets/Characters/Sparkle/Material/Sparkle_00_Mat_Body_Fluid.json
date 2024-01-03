@@ -1,0 +1,248 @@
+{
+  "m_Shader": {
+    "m_FileID": 1,
+    "m_PathID": 3430145197545174769,
+    "Name": "miHoYo/CRP_Character/LiquidinBotttle",
+    "IsNull": false
+  },
+  "m_SavedProperties": {
+    "m_TexEnvs": [
+      {
+        "Key": "_MainTex",
+        "Value": {
+          "m_Texture": {
+            "m_FileID": 0,
+            "m_PathID": 0,
+            "Name": "",
+            "IsNull": true
+          },
+          "m_Scale": {
+            "X": 3.0,
+            "Y": 1.5
+          },
+          "m_Offset": {
+            "X": -2.14,
+            "Y": -0.33
+          }
+        }
+      },
+      {
+        "Key": "_MaskTex",
+        "Value": {
+          "m_Texture": {
+            "m_FileID": 10,
+            "m_PathID": -8000698323545729372,
+            "Name": "Avatar_Sparkle_00_Glass_RangeTex",
+            "IsNull": false
+          },
+          "m_Scale": {
+            "X": 1.0,
+            "Y": 1.0
+          },
+          "m_Offset": {
+            "X": 0.0,
+            "Y": 0.0
+          }
+        }
+      }
+    ],
+    "m_Ints": null,
+    "m_Floats": [
+      {
+        "Key": "_DitherAlpha",
+        "Value": 1.0
+      },
+      {
+        "Key": "_DstBlend",
+        "Value": 10.0
+      },
+      {
+        "Key": "_EdgeWidth",
+        "Value": 0.0
+      },
+      {
+        "Key": "_FillAmount0",
+        "Value": -0.025
+      },
+      {
+        "Key": "_FillAmount1",
+        "Value": -0.025
+      },
+      {
+        "Key": "_FillAmount2",
+        "Value": -0.025
+      },
+      {
+        "Key": "_FoamWidth",
+        "Value": 0.06
+      },
+      {
+        "Key": "_GlassFrsnIn",
+        "Value": 1.37
+      },
+      {
+        "Key": "_LiquidOpaqueness",
+        "Value": 0.686
+      },
+      {
+        "Key": "_Opaqueness",
+        "Value": 0.935
+      },
+      {
+        "Key": "_RenderingMode",
+        "Value": 0.0
+      },
+      {
+        "Key": "_RimPower",
+        "Value": 4.0
+      },
+      {
+        "Key": "_SpecularIntensity",
+        "Value": 2.17
+      },
+      {
+        "Key": "_SpecularShininess",
+        "Value": 21.8
+      },
+      {
+        "Key": "_SpecularThreshold",
+        "Value": 0.502
+      },
+      {
+        "Key": "_SrcBlend",
+        "Value": 5.0
+      },
+      {
+        "Key": "_StencilRef",
+        "Value": 10.0
+      },
+      {
+        "Key": "_StencilRefOut",
+        "Value": 24.0
+      },
+      {
+        "Key": "_SurfaceLighted",
+        "Value": 0.59
+      },
+      {
+        "Key": "_UsingDitherAlpha",
+        "Value": 0.0
+      },
+      {
+        "Key": "_WobbleX",
+        "Value": 0.0
+      },
+      {
+        "Key": "_WobbleZ",
+        "Value": 0.0
+      },
+      {
+        "Key": "_Z",
+        "Value": 0.0
+      }
+    ],
+    "m_Colors": [
+      {
+        "Key": "_BrightColor",
+        "Value": {
+          "r": 0.0,
+          "g": 0.16549301,
+          "b": 0.5,
+          "a": 1.0
+        }
+      },
+      {
+        "Key": "_CharaWorldSpaceOffset",
+        "Value": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 1.0
+        }
+      },
+      {
+        "Key": "_DarkColor",
+        "Value": {
+          "r": 1.0,
+          "g": 1.0,
+          "b": 1.0,
+          "a": 1.0
+        }
+      },
+      {
+        "Key": "_EdgeWidth",
+        "Value": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 1.0
+        }
+      },
+      {
+        "Key": "_FoamColor",
+        "Value": {
+          "r": 1.0,
+          "g": 1.0,
+          "b": 1.0,
+          "a": 1.0
+        }
+      },
+      {
+        "Key": "_GlassColorA",
+        "Value": {
+          "r": 0.8820755,
+          "g": 0.9501564,
+          "b": 1.0,
+          "a": 1.0
+        }
+      },
+      {
+        "Key": "_GlassColorU",
+        "Value": {
+          "r": 1.0,
+          "g": 1.0,
+          "b": 1.0,
+          "a": 1.0
+        }
+      },
+      {
+        "Key": "_MainTexSpeed",
+        "Value": {
+          "r": 0.0,
+          "g": 0.15,
+          "b": 0.0,
+          "a": 0.0
+        }
+      },
+      {
+        "Key": "_RimColor",
+        "Value": {
+          "r": 2.2443287,
+          "g": 2.2443287,
+          "b": 2.2443287,
+          "a": 1.0
+        }
+      },
+      {
+        "Key": "_SPDir",
+        "Value": {
+          "r": 1.0,
+          "g": 1.0,
+          "b": 1.0,
+          "a": 1.0
+        }
+      },
+      {
+        "Key": "_SurfaceColor",
+        "Value": {
+          "r": 0.46207705,
+          "g": 0.67244333,
+          "b": 1.0,
+          "a": 1.0
+        }
+      }
+    ]
+  },
+  "m_Name": "Sparkle_00_Mat_Body_Fluid",
+  "Name": "Sparkle_00_Mat_Body_Fluid"
+}

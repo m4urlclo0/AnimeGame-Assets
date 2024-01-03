@@ -1,0 +1,173 @@
+{
+  "m_Shader": {
+    "m_FileID": 1,
+    "m_PathID": -6550255339530601893,
+    "Name": "miHoYo/CRP_Character/Character Stencil Clear",
+    "IsNull": false
+  },
+  "m_SavedProperties": {
+    "m_TexEnvs": [
+      {
+        "Key": "_DissolveMap",
+        "Value": {
+          "m_Texture": {
+            "m_FileID": 0,
+            "m_PathID": 0,
+            "Name": "",
+            "IsNull": true
+          },
+          "m_Scale": {
+            "X": 1.0,
+            "Y": 1.0
+          },
+          "m_Offset": {
+            "X": 0.0,
+            "Y": 0.0
+          }
+        }
+      },
+      {
+        "Key": "_DissolveMask",
+        "Value": {
+          "m_Texture": {
+            "m_FileID": 0,
+            "m_PathID": 0,
+            "Name": "",
+            "IsNull": true
+          },
+          "m_Scale": {
+            "X": 1.0,
+            "Y": 1.0
+          },
+          "m_Offset": {
+            "X": 0.0,
+            "Y": 0.0
+          }
+        }
+      }
+    ],
+    "m_Ints": null,
+    "m_Floats": [
+      {
+        "Key": "_DissolveDistortionIntensity",
+        "Value": 0.01
+      },
+      {
+        "Key": "_DissolveOutlineOffset",
+        "Value": 0.0
+      },
+      {
+        "Key": "_DissolveOutlineSize1",
+        "Value": 0.05
+      },
+      {
+        "Key": "_DissolveOutlineSize2",
+        "Value": 0.0
+      },
+      {
+        "Key": "_DissolveRate",
+        "Value": 0.0
+      },
+      {
+        "Key": "_DissolveUV",
+        "Value": 0.0
+      },
+      {
+        "Key": "_DissoveDirecMask",
+        "Value": 2.0
+      },
+      {
+        "Key": "_DissoveON",
+        "Value": 0.0
+      },
+      {
+        "Key": "_DitherAlpha",
+        "Value": 1.0
+      },
+      {
+        "Key": "_EnableAlphaCutoff",
+        "Value": 0.0
+      },
+      {
+        "Key": "_UsingDitherAlpha",
+        "Value": 0.0
+      }
+    ],
+    "m_Colors": [
+      {
+        "Key": "_Color",
+        "Value": {
+          "r": 1.0,
+          "g": 1.0,
+          "b": 1.0,
+          "a": 1.0
+        }
+      },
+      {
+        "Key": "_DissolveComponent",
+        "Value": {
+          "r": 1.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        }
+      },
+      {
+        "Key": "_DissolveOutlineColor1",
+        "Value": {
+          "r": 1.0,
+          "g": 1.0,
+          "b": 1.0,
+          "a": 1.0
+        }
+      },
+      {
+        "Key": "_DissolveOutlineColor2",
+        "Value": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        }
+      },
+      {
+        "Key": "_DissolveOutlineSmoothStep",
+        "Value": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        }
+      },
+      {
+        "Key": "_DissolveST",
+        "Value": {
+          "r": 1.0,
+          "g": 1.0,
+          "b": 0.0,
+          "a": 0.0
+        }
+      },
+      {
+        "Key": "_DissolveUVSpeed",
+        "Value": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        }
+      },
+      {
+        "Key": "_DistortionST",
+        "Value": {
+          "r": 1.0,
+          "g": 1.0,
+          "b": 0.0,
+          "a": 0.0
+        }
+      }
+    ]
+  },
+  "m_Name": "Mat_FaceMask",
+  "Name": "Mat_FaceMask"
+}

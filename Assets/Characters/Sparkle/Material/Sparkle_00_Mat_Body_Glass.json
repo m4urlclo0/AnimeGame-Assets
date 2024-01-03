@@ -1,0 +1,109 @@
+{
+  "m_Shader": {
+    "m_FileID": 1,
+    "m_PathID": -3947362193666101140,
+    "Name": "miHoYo/CRP_Character/GlassEdges",
+    "IsNull": false
+  },
+  "m_SavedProperties": {
+    "m_TexEnvs": [],
+    "m_Ints": null,
+    "m_Floats": [
+      {
+        "Key": "_CullModeIn",
+        "Value": 2.0
+      },
+      {
+        "Key": "_DitherAlpha",
+        "Value": 1.0
+      },
+      {
+        "Key": "_DstBlend",
+        "Value": 10.0
+      },
+      {
+        "Key": "_EdgeOpaqueness",
+        "Value": 1.0
+      },
+      {
+        "Key": "_EdgeWidthout",
+        "Value": 0.169
+      },
+      {
+        "Key": "_GlassFrsnIn",
+        "Value": 4.0
+      },
+      {
+        "Key": "_InsideWidth",
+        "Value": 0.0
+      },
+      {
+        "Key": "_OutlineNormalFrom",
+        "Value": 1.0
+      },
+      {
+        "Key": "_OutlineWidth",
+        "Value": 0.075
+      },
+      {
+        "Key": "_RenderingMode",
+        "Value": 0.0
+      },
+      {
+        "Key": "_RimPower",
+        "Value": 1.0
+      },
+      {
+        "Key": "_SrcBlend",
+        "Value": 5.0
+      },
+      {
+        "Key": "_StencilPass",
+        "Value": 2.0
+      },
+      {
+        "Key": "_StencilRefIn",
+        "Value": 11.0
+      },
+      {
+        "Key": "_StencilRefOut",
+        "Value": 11.0
+      },
+      {
+        "Key": "_UsingDitherAlpha",
+        "Value": 0.0
+      }
+    ],
+    "m_Colors": [
+      {
+        "Key": "_GlassColorI",
+        "Value": {
+          "r": 1.2596959,
+          "g": 1.2596959,
+          "b": 1.2596959,
+          "a": 1.0
+        }
+      },
+      {
+        "Key": "_GlassColorU",
+        "Value": {
+          "r": 0.13207549,
+          "g": 0.039248846,
+          "b": 0.061281826,
+          "a": 1.0
+        }
+      },
+      {
+        "Key": "_OutlineColor",
+        "Value": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 1.0
+        }
+      }
+    ]
+  },
+  "m_Name": "Sparkle_00_Mat_Body_Glass",
+  "Name": "Sparkle_00_Mat_Body_Glass"
+}

@@ -1,0 +1,375 @@
+{
+  "m_Shader": {
+    "m_FileID": 3,
+    "m_PathID": 4196235234566269202,
+    "Name": "miHoYo/CRP_Particles/Particle_DissolveM_Model",
+    "IsNull": false
+  },
+  "m_SavedProperties": {
+    "m_TexEnvs": [
+      {
+        "Key": "_DisTex",
+        "Value": {
+          "m_Texture": {
+            "m_FileID": 1,
+            "m_PathID": 7663641438012816312,
+            "Name": "Eff_Noise_19",
+            "IsNull": false
+          },
+          "m_Scale": {
+            "X": 3.0,
+            "Y": 1.0
+          },
+          "m_Offset": {
+            "X": 0.0,
+            "Y": 0.0
+          }
+        }
+      },
+      {
+        "Key": "_MainTex",
+        "Value": {
+          "m_Texture": {
+            "m_FileID": 0,
+            "m_PathID": 7957933346643843426,
+            "Name": "Eff_Fire_01_04",
+            "IsNull": false
+          },
+          "m_Scale": {
+            "X": 1.0,
+            "Y": 1.0
+          },
+          "m_Offset": {
+            "X": 0.25,
+            "Y": 0.0
+          }
+        }
+      },
+      {
+        "Key": "_NoiseTex",
+        "Value": {
+          "m_Texture": {
+            "m_FileID": 2,
+            "m_PathID": -1553390993540696493,
+            "Name": "Eff_Noise_23",
+            "IsNull": false
+          },
+          "m_Scale": {
+            "X": 4.0,
+            "Y": 0.5
+          },
+          "m_Offset": {
+            "X": 0.0,
+            "Y": 0.0
+          }
+        }
+      }
+    ],
+    "m_Ints": null,
+    "m_Floats": [
+      {
+        "Key": "_AbsNoV",
+        "Value": 0.0
+      },
+      {
+        "Key": "_AlphaScale",
+        "Value": 1.0
+      },
+      {
+        "Key": "_AlwaysOnTop",
+        "Value": 4.0
+      },
+      {
+        "Key": "_CL3",
+        "Value": 0.0
+      },
+      {
+        "Key": "_CL4",
+        "Value": 2.0
+      },
+      {
+        "Key": "_Cull",
+        "Value": 0.0
+      },
+      {
+        "Key": "_CylinederCoordUpAxis",
+        "Value": 1.0
+      },
+      {
+        "Key": "_Disappear",
+        "Value": 0.0
+      },
+      {
+        "Key": "_DitherAlpha",
+        "Value": 1.0
+      },
+      {
+        "Key": "_Dither_On",
+        "Value": 0.0
+      },
+      {
+        "Key": "_DstBlend",
+        "Value": 10.0
+      },
+      {
+        "Key": "_FresnelON",
+        "Value": 0.0
+      },
+      {
+        "Key": "_HideCharaParts",
+        "Value": 0.0
+      },
+      {
+        "Key": "_Opacity",
+        "Value": 1.0
+      },
+      {
+        "Key": "_RenderingMode",
+        "Value": 0.0
+      },
+      {
+        "Key": "_ScrPos",
+        "Value": 0.0
+      },
+      {
+        "Key": "_ScrPosMain",
+        "Value": 1.0
+      },
+      {
+        "Key": "_ScrPosRatioLock",
+        "Value": 0.0
+      },
+      {
+        "Key": "_ScrPosRatioLockDisTex",
+        "Value": 0.0
+      },
+      {
+        "Key": "_ScrPosScale",
+        "Value": 0.0
+      },
+      {
+        "Key": "_ScrPosScaleDisTex",
+        "Value": 0.0
+      },
+      {
+        "Key": "_ScrPosTex",
+        "Value": 0.0
+      },
+      {
+        "Key": "_ScrPosXYOffset",
+        "Value": 0.0
+      },
+      {
+        "Key": "_ScrPosXYOffsetDisTex",
+        "Value": 0.0
+      },
+      {
+        "Key": "_ScreenSpaceTexScale",
+        "Value": 1.0
+      },
+      {
+        "Key": "_ShowID0",
+        "Value": 0.0
+      },
+      {
+        "Key": "_ShowID1",
+        "Value": 0.0
+      },
+      {
+        "Key": "_ShowID2",
+        "Value": 0.0
+      },
+      {
+        "Key": "_ShowID3",
+        "Value": 0.0
+      },
+      {
+        "Key": "_ShowID4",
+        "Value": 0.0
+      },
+      {
+        "Key": "_ShowID5",
+        "Value": 0.0
+      },
+      {
+        "Key": "_ShowID6",
+        "Value": 0.0
+      },
+      {
+        "Key": "_ShowID7",
+        "Value": 0.0
+      },
+      {
+        "Key": "_ShowPartID",
+        "Value": 0.0
+      },
+      {
+        "Key": "_SoftFar",
+        "Value": 1.0
+      },
+      {
+        "Key": "_SoftNear",
+        "Value": 0.0
+      },
+      {
+        "Key": "_SrcBlend",
+        "Value": 5.0
+      },
+      {
+        "Key": "_ToCylinderCoordinate",
+        "Value": 0.0
+      },
+      {
+        "Key": "_ToPolarCoordinate",
+        "Value": 0.0
+      },
+      {
+        "Key": "_UseNojitterMatrix",
+        "Value": 0.0
+      },
+      {
+        "Key": "_ZWrite",
+        "Value": 0.0
+      }
+    ],
+    "m_Colors": [
+      {
+        "Key": "_DisRSpeed",
+        "Value": {
+          "r": -1.5,
+          "g": 0.1,
+          "b": 0.54,
+          "a": 0.0
+        }
+      },
+      {
+        "Key": "_DisStep",
+        "Value": {
+          "r": 0.2,
+          "g": 0.14,
+          "b": 0.82,
+          "a": 1.0
+        }
+      },
+      {
+        "Key": "_Fresnel",
+        "Value": {
+          "r": 0.0,
+          "g": 1.0,
+          "b": 0.0,
+          "a": 1.0
+        }
+      },
+      {
+        "Key": "_FresnelColor",
+        "Value": {
+          "r": 1.0,
+          "g": 1.0,
+          "b": 1.0,
+          "a": 0.0
+        }
+      },
+      {
+        "Key": "_InsideColor",
+        "Value": {
+          "r": 1.39772,
+          "g": 0.61470413,
+          "b": 0.095132776,
+          "a": 1.0
+        }
+      },
+      {
+        "Key": "_MainChannel",
+        "Value": {
+          "r": 1.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        }
+      },
+      {
+        "Key": "_MainChannelRGB",
+        "Value": {
+          "r": 1.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        }
+      },
+      {
+        "Key": "_MainSpeed",
+        "Value": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 1.0,
+          "a": 1.0
+        }
+      },
+      {
+        "Key": "_MidColor",
+        "Value": {
+          "r": 0.38642952,
+          "g": 0.06301003,
+          "b": 0.02415763,
+          "a": 0.101960786
+        }
+      },
+      {
+        "Key": "_NoiseChannelRGB",
+        "Value": {
+          "r": 1.0,
+          "g": 1.0,
+          "b": 1.0,
+          "a": 0.0
+        }
+      },
+      {
+        "Key": "_NoiseMask",
+        "Value": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        }
+      },
+      {
+        "Key": "_NoiseSpeed",
+        "Value": {
+          "r": -1.5,
+          "g": 0.1,
+          "b": 0.44,
+          "a": 0.5
+        }
+      },
+      {
+        "Key": "_OffsetColor",
+        "Value": {
+          "r": 1.0,
+          "g": 1.0,
+          "b": 1.0,
+          "a": 0.0
+        }
+      },
+      {
+        "Key": "_OutSideColor",
+        "Value": {
+          "r": 1.1442857,
+          "g": 0.18435715,
+          "b": 0.0,
+          "a": 1.0
+        }
+      },
+      {
+        "Key": "_SmoothStep",
+        "Value": {
+          "r": 0.28,
+          "g": -0.14,
+          "b": 0.34,
+          "a": 0.33
+        }
+      }
+    ]
+  },
+  "m_Name": "Sam_00_Mat_Eff_Body_01_Fire_07",
+  "Name": "Sam_00_Mat_Eff_Body_01_Fire_07"
+}
